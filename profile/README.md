@@ -31,8 +31,6 @@ We are positioned to capture the expanding "Consumer Creator" segment through an
 *  **Proprietary Data Moat:** Every successful print helps train our future proprietary models, creating long-term defensibility and reducing reliance on third-party APIs.
 *  **Market Opportunity:** With over 1 million entry-level printers shipped in Q1 2025 alone, we are targeting the millions of machines currently sitting idle due to software friction.
 
-
-
 ---
 
 ### The Team
@@ -40,8 +38,4 @@ We are positioned to capture the expanding "Consumer Creator" segment through an
 * **Tytus Felbór (CEO & Lead Architect):** MSc in Autonomous Systems & Intelligent Robots.
 * **Alberto Garcia De La Torre (CTO & Lead AI Developer):** MSc in Data Science.
 
-
-
 ---
-
-**Would you like me to draft the "Core Repository" structure next to show how we organize our public vs. private modules?**
