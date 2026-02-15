@@ -4,7 +4,7 @@
 
 ---
 
-### ### Executive Summary
+### Executive Summary
 
 The consumer 3D printing market is currently limited by a massive "skill gap". While hardware has become affordable, creating custom content requires months of training in complex CAD software. **Prompt2Print** solves this by providing an end-to-end "Text-to-Print" pipeline.
 * **The Problem:** High printer abandonment rates due to the technical barriers of 3D modeling and "slicing".
@@ -13,7 +13,7 @@ The consumer 3D printing market is currently limited by a massive "skill gap". W
 
 ---
 
-### ### The Technology Moat: Vertical Integration
+### The Technology Moat: Vertical Integration
 
 Unlike competitors who only generate digital 3D assets, Prompt2Print owns the entire production line—from the first prompt to the final G-Code.
 1. **Generative Design:** Utilizing high-performance models to convert text descriptions into 3D geometry.
@@ -23,7 +23,7 @@ Unlike competitors who only generate digital 3D assets, Prompt2Print owns the en
 
 ---
 
-### ### Business & Market Potential
+### Business & Market Potential
 
 We are positioned to capture the expanding "Consumer Creator" segment through an **Open-Core** business model that prioritizes high margins and enterprise-ready standards.
 
@@ -35,7 +35,7 @@ We are positioned to capture the expanding "Consumer Creator" segment through an
 
 ---
 
-### ### The Team
+### The Team
 
 * **Tytus Felbór (CEO & Lead Architect):** MSc in Autonomous Systems & Intelligent Robots.
 * **Alberto Garcia De La Torre (CTO & Lead AI Developer):** MSc in Data Science.
